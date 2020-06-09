@@ -17,6 +17,7 @@
             body{
                 font-family: 'Open Sans', sans-serif;
                 background-color: #01112b;
+                color: white;
             }
             table,td,tr{
                 border: 1px solid;
@@ -25,7 +26,7 @@
             span{
                 font-weight: normal;
                 font-size: 16px;
-                color: white;
+                
             }
             </style>
     </head>
