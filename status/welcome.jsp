@@ -16,6 +16,7 @@
         <style>
             body{
                 font-family: 'Open Sans', sans-serif;
+                background-color: #01112b;
             }
             table,td,tr{
                 border: 1px solid;
